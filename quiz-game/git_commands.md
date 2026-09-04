@@ -4,6 +4,7 @@ git checkout -b <new branch name>
 git checkout <branch name to checkout>
 
 Regular commands:
+git fetch
 git add . <stage section me add ke liye>
 git commit -m "commit message"
 git push -u origin <branch name> <phli bar branch pepush ke liye>
